@@ -1,0 +1,3 @@
+TruSlot is a parking management web application built using Python, Flask, HTML, CSS and JavaScript. It lets users view and book available parking slots in real time.
+The Micro-Location Fire Detection and Emergency Alert System uses an ESP32 microcontroller with IoT sensors to detect fires in a small area and send emergency alerts.
+Homvizion is a smart projector system that won first prize at the Mangalam College Ideathon 2025.
